@@ -21,4 +21,4 @@ Data Camp Course "Credit Risk Modeling in Python"
 ## Model Performance
 ![ROC Curve](results/ROC.png)
 
-![Calibration Curve](results/Calibration Curve.png)
+![Calibration Curve](results/Calibration_Curve.png)
