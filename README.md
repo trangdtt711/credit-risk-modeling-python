@@ -17,3 +17,8 @@ Using Logistic Regression and XGBoost in Python to predict the probability of cu
 
 ## Reference
 Data Camp Course "Credit Risk Modeling in Python"
+
+## Model Performance
+![ROC Curve](results/ROC.png)
+
+![Calibration Curve](results/Calibration Curve.png)
